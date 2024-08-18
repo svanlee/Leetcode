@@ -1,0 +1,1 @@
+<?php // Solution in PHP
